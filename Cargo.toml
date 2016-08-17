@@ -1,0 +1,8 @@
+[package]
+name = "simple-osm-util"
+version = "0.1.0"
+authors = ["Ivan Lavriv <lavriv92@gmail.com>"]
+
+[dependencies]
+curl = "0.3.4"
+clap = "2.10.0"
